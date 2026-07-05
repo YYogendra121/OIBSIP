@@ -52,7 +52,7 @@ A single-page marketing site for **Ledgerline**, a fictional B2B finance-ops Saa
 
 **🔗 Live demo:** [yyogendra121.github.io/Portfoliowebsite](https://yyogendra121.github.io/Portfoliowebsite/)
 <p align="center">
-  <img src="images/Landpage(1).jpg" alt="Ledgerline landing page image" width="850">
+  <img src="images/Landpage (1).jpg" alt="Ledgerline landing page image" width="850">
 </p>
 
 **Highlights**
