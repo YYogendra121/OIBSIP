@@ -143,5 +143,5 @@ C = (F − 32) × 5/9
 ---
 
 <p align="center">
-  Made with 💙 during the <b>Oasis Infobyte Web Development Internship</b>
+  Made with ❤️ during the <b>Oasis Infobyte Web Development Internship</b>
 </p>
