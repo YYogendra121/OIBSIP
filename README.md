@@ -48,7 +48,10 @@ python3 -m http.server 8000
 **Files:** `task1-landing-page/index.html` (+ `contact-sheet-co.html` as an alternate concept)
 **Stack:** HTML5, CSS3 only — no JavaScript
 
-A single-page marketing site for **Ledgerline**, a fictional B2B finance-ops SaaS product. Corporate palette (navy / blue / teal), sticky nav, hero with a CSS-only product dashboard mockup, feature grid, stats band, testimonials, CTA banner, and a multi-column footer.
+A modern, responsive landing page built with **HTML5** and **CSS3** for **Ledgerline**, a fictional B2B Finance Operations SaaS platform.
+The project focuses on clean UI design, responsive layouts, semantic HTML, and modern CSS techniques without using JavaScript.
+
+---
 
 **🔗 Live demo:** [yyogendra121.github.io/Portfoliowebsite](https://yyogendra121.github.io/Portfoliowebsite/)
 <p align="center">
