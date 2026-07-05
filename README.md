@@ -69,6 +69,22 @@ The project focuses on clean UI design, responsive layouts, semantic HTML, and m
 - Two type families (Manrope for display, Inter for body) plus a numeric/mono treatment in the stats band
 
 > `contact-sheet-co.html` is a second, editorial-style take on the same brief (a mail-in film-developing brand) kept for reference/comparison.
+# ✨ Features
+
+- Responsive Landing Page
+- Sticky Navigation Bar
+- Hero Section with CSS-only Dashboard Mockup
+- Feature Grid
+- Statistics Section
+- Testimonials
+- Call-to-Action Banner
+- Multi-column Footer
+- Corporate Color Palette (Navy • Blue • Teal)
+- CSS Variables (`:root`) for consistent theming
+- CSS Grid & Flexbox Layout
+- Mobile Responsive Design
+- Clean Semantic HTML5
+- No JavaScript
 
 ---
 
