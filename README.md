@@ -6,7 +6,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-
+**🔗 Live demo:** [yyogendra121.github.io/Portfoliowebsite](https://yyogendra121.github.io/Poerfoliowebsite/)
+**🔗 Live demo:** [yyogendra121.github.io/Portfoliowebsite](https://yyogendra121.github.io/Portfoliowebsite/)
+**🔗 Live demo:** [yyogendra121.github.io/Portfoliowebsite](https://yyogendra121.github.io/Portfoliowebsite/)
 <p align="center">
   Three self-contained front-end projects built for the <b>OIBSIP (Oasis Infobyte)</b> Web Development internship track — no build tools, no package manager, no backend required.
 </p>
@@ -50,8 +52,9 @@ python3 -m http.server 8000
 
 A single-page marketing site for **Ledgerline**, a fictional B2B finance-ops SaaS product. Corporate palette (navy / blue / teal), sticky nav, hero with a CSS-only product dashboard mockup, feature grid, stats band, testimonials, CTA banner, and a multi-column footer.
 
+**🔗 Live demo:** [yyogendra121.github.io/Portfoliowebsite](https://yyogendra121.github.io/Portfoliowebsite/)
 <p align="center">
-  <img src="screenshots/landing-page.png" alt="Ledgerline landing page screenshot" width="850">
+  <img src="images/Landpage.jpg" alt="Ledgerline landing page image" width="850">
 </p>
 
 **Highlights**
@@ -78,7 +81,7 @@ A personal developer portfolio with a dark theme and bold accent palette, built 
 **🔗 Live demo:** [yyogendra121.github.io/Portfoliowebsite](https://yyogendra121.github.io/Portfoliowebsite/)
 
 <p align="center">
-  <img src="screenshots/portfolio.png" alt="Portfolio website screenshot" width="850">
+  <img src="images/Portfolio.jpg" alt="Portfolio website image" width="850">
 </p>
 
 **Sections**
@@ -100,8 +103,9 @@ Responsive breakpoints at `980px` and `680px`; all interactive elements have vis
 
 A single-card utility app — **Thermo** — that converts a temperature value between **Celsius, Fahrenheit, and Kelvin**, live, as you type.
 
+**🔗 Live demo:** [yyogendra121.github.io/Portfoliowebsite](https://yyogendra121.github.io/Portfoliowebsite/)
 <p align="center">
-  <img src="Temperature.jpg" alt="Temperature converter screenshot" width="850">
+  <img src="images/Temperature.jpg" alt="Temperature converter images" width="850">
 </p>
 
 **Highlights**
@@ -141,7 +145,6 @@ C = (F − 32) × 5/9
 - Each task folder is independent and can be zipped/deployed separately (e.g. to GitHub Pages, Netlify, or Vercel) without pulling in the other two.
 
 ---
-
 <p align="center">
   Made with ❤️ during the <b>Oasis Infobyte Web Development Internship</b>
 </p>
