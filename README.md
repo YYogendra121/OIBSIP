@@ -1,6 +1,19 @@
-# OIBSIP — Web Development Internship Tasks
+# 🌐 OIBSIP — Web Development Internship
 
-Submissions for the OIBSIP (Oasis Infobyte) Web Development internship track. Three static/front-end projects, each self-contained in its own folder — no build tools, no package manager, no backend required unless noted.
+<p align="center">
+  <img src="https://img.shields.io/badge/Internship-Oasis%20Infobyte-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+  Three self-contained front-end projects built for the <b>OIBSIP (Oasis Infobyte)</b> Web Development internship track — no build tools, no package manager, no backend required.
+</p>
+
+---
+
+## 📁 Project Structure
 
 ```
 oibsip/
@@ -18,7 +31,9 @@ oibsip/
     └── script.js
 ```
 
-Every task can be run the same way: open its `index.html` in a browser, or serve the folder locally:
+### ▶️ Running any task
+
+Every task can be run the same way — just open its `index.html` in a browser, or serve the folder locally:
 
 ```bash
 cd task1-landing-page   # or task2-portfolio / task3-temperature-converter
@@ -28,13 +43,18 @@ python3 -m http.server 8000
 
 ---
 
-## Task 1 — Landing Page
+## 🧾 Task 1 — Landing Page
 
 **Files:** `task1-landing-page/index.html` (+ `contact-sheet-co.html` as an alternate concept)
-**Stack:** HTML5, CSS3 only — no JavaScript.
+**Stack:** HTML5, CSS3 only — no JavaScript
 
 A single-page marketing site for **Ledgerline**, a fictional B2B finance-ops SaaS product. Corporate palette (navy / blue / teal), sticky nav, hero with a CSS-only product dashboard mockup, feature grid, stats band, testimonials, CTA banner, and a multi-column footer.
 
+<p align="center">
+  <img src="screenshots/landing-page.png" alt="Ledgerline landing page screenshot" width="850">
+</p>
+
+**Highlights**
 - Sticky navigation with 4 links, sign-in, and a primary CTA
 - Hero: headline, subheadline, dual CTAs, supporting visual
 - 4 additional content sections (Features, Stats, Testimonials, CTA banner)
@@ -44,38 +64,52 @@ A single-page marketing site for **Ledgerline**, a fictional B2B finance-ops Saa
 - Explicit `box-sizing`, padding, and margin throughout — no overlapping elements
 - Two type families (Manrope for display, Inter for body) plus a numeric/mono treatment in the stats band
 
-`contact-sheet-co.html` is a second, editorial-style take on the same brief (a mail-in film-developing brand) kept for reference/comparison.
+> `contact-sheet-co.html` is a second, editorial-style take on the same brief (a mail-in film-developing brand) kept for reference/comparison.
 
 ---
 
-## Task 2 — Portfolio Website
+## 👨‍💻 Task 2 — Portfolio Website
 
 **Files:** `task2-portfolio/index.html`, `style.css`, `script.js`
-**Stack:** HTML5, CSS3, vanilla JavaScript.
+**Stack:** HTML5, CSS3, vanilla JavaScript
 
-A personal developer portfolio for a fictional full-stack engineer, **Alex Rivera**. Dark theme with a teal/indigo accent, monospace touches for a "developer" identity.
+A personal developer portfolio with a dark theme and bold accent palette, built to introduce the developer, their skills, and their project work.
 
-Sections: sticky nav (with mobile hamburger menu) → hero with intro & résumé/CTA links → About (with a CSS "code card" visual) → Skills (grouped chip grid) → Projects (3 case-study cards with tags and links) → Contact (info panel + working front-end form) → footer.
+<p align="center">
+  <img src="screenshots/portfolio.png" alt="Portfolio website screenshot" width="850">
+</p>
 
-JavaScript handles:
+**Sections**
+Sticky nav (with mobile hamburger menu) → Hero with intro & CTA links → About → Services → Projects (case-study cards with tags and links) → Skills → Teams → Contact → footer.
+
+**JavaScript handles**
 - Toggling the mobile navigation menu (and closing it after a link is tapped)
+- A typing/rotating-role effect in the hero
 - A demo contact-form submit handler that prevents the default page reload and shows an inline confirmation message (no backend wired up — swap in a real form endpoint to go live)
 
 Responsive breakpoints at `980px` and `680px`; all interactive elements have visible hover/focus states.
 
 ---
 
-## Task 3 — Temperature Converter
+## 🌡️ Task 3 — Temperature Converter
 
 **Files:** `task3-temperature-converter/index.html`, `style.css`, `script.js`
-**Stack:** HTML5, CSS3, vanilla JavaScript.
+**Stack:** HTML5, CSS3, vanilla JavaScript
 
-A single-card utility app that converts a temperature value between **Celsius, Fahrenheit, and Kelvin** simultaneously and live, as you type.
+A single-card utility app — **Thermo** — that converts a temperature value between **Celsius, Fahrenheit, and Kelvin**, live, as you type.
 
+<p align="center">
+  <img src="screenshots/temperature-converter.png" alt="Temperature converter screenshot" width="850">
+</p>
+
+**Highlights**
 - One numeric input + a "from unit" dropdown (Celsius / Fahrenheit / Kelvin)
 - All three converted values update on every keystroke (`input`/`change` events — no submit button needed)
 - The unit you typed in is visually highlighted among the three result cards
-- Input validation: empty input clears the results silently; a non-numeric value shows an inline error; a value below absolute zero (−273.15 °C) is rejected with an explanit error message instead of showing a nonsensical result
+- Input validation:
+  - Empty input clears the results silently
+  - A non-numeric value shows an inline error
+  - A value below absolute zero (−273.15 °C) is rejected with an explanatory error message
 - Conversion formulas shown at the bottom of the card for reference
 
 Conversion logic (`script.js`) normalizes whatever unit is entered to Celsius first, then derives the other two:
@@ -88,8 +122,24 @@ C = (F − 32) × 5/9
 
 ---
 
-## Notes for reviewers
+## 🛠️ Tech Stack
+
+| Task | HTML | CSS | JavaScript |
+|------|:----:|:---:|:----------:|
+| 1 — Landing Page | ✅ | ✅ | — |
+| 2 — Portfolio | ✅ | ✅ | ✅ |
+| 3 — Temperature Converter | ✅ | ✅ | ✅ |
+
+---
+
+## 📝 Notes for Reviewers
 
 - All three tasks are static front-end deliverables; Task 2 and Task 3 use small amounts of vanilla JS for interactivity, Task 1 intentionally uses none.
 - No external dependencies beyond Google Fonts (`<link>` tags in each `<head>`) — everything else (icons, mockups, layout) is hand-written HTML/CSS/JS.
 - Each task folder is independent and can be zipped/deployed separately (e.g. to GitHub Pages, Netlify, or Vercel) without pulling in the other two.
+
+---
+
+<p align="center">
+  Made with 💙 during the <b>Oasis Infobyte Web Development Internship</b>
+</p>
