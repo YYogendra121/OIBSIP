@@ -100,33 +100,37 @@ A modern, fully responsive personal developer portfolio designed to showcase my 
   <img src="images/Portfolio.jpg" alt="Portfolio website image" width="850">
 </p>
 
-✨ Highlights
-Modern dark-themed UI with a bold accent color palette
-Fully responsive design for desktop, tablet, and mobile devices
-Sticky navigation with a mobile-friendly hamburger menu
-Interactive hero section with a dynamic typing animation
-Clean, well-structured sections for About, Services, Skills, Projects, Teams, and Contact
-Professional project showcase using case-study style cards
-Smooth hover and focus animations for better user experience
-JavaScript-powered interactive components without external frameworks
-Demo contact form with inline success feedback (frontend only)
-Clean, semantic HTML and maintainable CSS architecture
+## ✨ Highlights
 
-🚀 Key Features
-📌 Sticky navigation bar with responsive mobile menu
-🎯 Hero section featuring an animated typing effect
-👨‍💻 About section introducing the developer
-💼 Services section highlighting offered expertise
-📂 Project showcase with technology tags and project links
-⚡ Skills section displaying technical proficiencies
-👥 Teams section presenting collaborators or team members
-📬 Contact form with JavaScript-based submission handling
-🌙 Elegant dark theme with consistent design system
-📱 Responsive layouts using CSS Grid, Flexbox, and media queries (980px & 680px)
-🎨 Smooth hover, transition, and focus effects for improved accessibility
-⚙️ Built entirely with HTML, CSS, and Vanilla JavaScript (no frameworks)
-📈 Optimized structure for performance, readability, and easy future enhancements
-- A demo contact-form submit handler that prevents the default page reload and shows an inline confirmation message (no backend wired up — swap in a real form endpoint to go live)
+- Modern dark-themed UI with a bold accent color palette
+- Fully responsive design for desktop, tablet, and mobile devices
+- Sticky navigation with a mobile-friendly hamburger menu
+- Interactive hero section with a dynamic typing animation
+- Clean, well-structured sections for About, Services, Skills, Projects, Teams, and Contact
+- Professional project showcase using case-study style cards
+- Smooth hover and focus animations for better user experience
+- JavaScript-powered interactive components without external frameworks
+- Demo contact form with inline success feedback (frontend only)
+- Clean, semantic HTML and maintainable CSS architecture
+
+---
+
+## 🚀 Key Features
+
+- 📌 Sticky navigation bar with responsive mobile menu
+- 🎯 Hero section featuring an animated typing effect
+- 👨‍💻 About section introducing the developer
+- 💼 Services section highlighting offered expertise
+- 📂 Project showcase with technology tags and project links
+- ⚡ Skills section displaying technical proficiencies
+- 👥 Teams section presenting collaborators or team members
+- 📬 Contact form with JavaScript-based submission handling
+- 🌙 Elegant dark theme with consistent design system
+- 📱 Responsive layouts using CSS Grid, Flexbox, and media queries (980px & 680px)
+- 🎨 Smooth hover, transition, and focus effects for improved accessibility
+- ⚙️ Built entirely with HTML5, CSS3, and Vanilla JavaScript (no frameworks)
+- 📈 Optimized structure for performance, readability, and easy future enhancements
+- 🔄 Demo contact form prevents page reload and displays an inline success message (frontend only; replace with a real backend endpoint for production)- A demo contact-form submit handler that prevents the default page reload and shows an inline confirmation message (no backend wired up — swap in a real form endpoint to go live)
 
 - A demo contact-form submit handler that prevents the default page reload and shows an inline confirmation message (no backend wired up — swap in a real form endpoint to go live)
 
