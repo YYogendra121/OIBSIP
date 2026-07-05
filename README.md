@@ -128,6 +128,8 @@ Clean, semantic HTML and maintainable CSS architecture
 📈 Optimized structure for performance, readability, and easy future enhancements
 - A demo contact-form submit handler that prevents the default page reload and shows an inline confirmation message (no backend wired up — swap in a real form endpoint to go live)
 
+- A demo contact-form submit handler that prevents the default page reload and shows an inline confirmation message (no backend wired up — swap in a real form endpoint to go live)
+
 Responsive breakpoints at `980px` and `680px`; all interactive elements have visible hover/focus states.
 
 ---
