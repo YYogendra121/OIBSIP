@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 <p align="center">
-**🔗LandingPage Live demo:** [LandingPage](https://yyogendra121.github.io/Portfoliowebsite/)
+**🔗LandingPage Live demo:** [LandingPage](https://yyogendra121.github.io/Portfoliowebsite/) 
+</p>
 **🔗Portfolio Live demo:** [Portfoliowebsite](https://yyogendra121.github.io/Portfoliowebsite/)
 **🔗Temperature Live demo:** [Temperature](https://yyogendra121.github.io/Portfoliowebsite/)
 </p>
