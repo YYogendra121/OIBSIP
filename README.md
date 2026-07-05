@@ -101,7 +101,7 @@ Responsive breakpoints at `980px` and `680px`; all interactive elements have vis
 A single-card utility app — **Thermo** — that converts a temperature value between **Celsius, Fahrenheit, and Kelvin**, live, as you type.
 
 <p align="center">
-  <img src="screenshots/temperature-converter.png" alt="Temperature converter screenshot" width="850">
+  <img src="Temperature.jpg" alt="Temperature converter screenshot" width="850">
 </p>
 
 **Highlights**
