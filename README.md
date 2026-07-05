@@ -48,7 +48,7 @@ python3 -m http.server 8000
 **Files:** `task1-landing-page/index.html` (+ `contact-sheet-co.html` as an alternate concept)
 **Stack:** HTML5, CSS3 only — no JavaScript
 
-A modern, responsive landing page built with **HTML5** and **CSS3** for **Ledgerline**, a fictional B2B Finance Operations SaaS platform.
+A modern, responsive landing page built with **HTML** and **CSS** for **Ledgerline**, a fictional B2B Finance Operations SaaS platform.
 The project focuses on clean UI design, responsive layouts, semantic HTML, and modern CSS techniques without using JavaScript.
 
 ---
@@ -93,20 +93,39 @@ The project focuses on clean UI design, responsive layouts, semantic HTML, and m
 **Files:** `task2-portfolio/index.html`, `style.css`, `script.js`
 **Stack:** HTML5, CSS3, vanilla JavaScript
 
-A personal developer portfolio with a dark theme and bold accent palette, built to introduce the developer, their skills, and their project work.
-
+A modern, fully responsive personal developer portfolio designed to showcase my skills, projects, and professional profile. Built with HTML, CSS, and vanilla JavaScript, the website features a sleek dark theme, interactive UI elements, and a mobile-first responsive design to deliver a smooth user experience across all devices.
 **🔗 Live demo:** [yyogendra121.github.io/Portfoliowebsite](https://yyogendra121.github.io/Portfoliowebsite/)
 
 <p align="center">
   <img src="images/Portfolio.jpg" alt="Portfolio website image" width="850">
 </p>
 
-**Sections**
-Sticky nav (with mobile hamburger menu) → Hero with intro & CTA links → About → Services → Projects (case-study cards with tags and links) → Skills → Teams → Contact → footer.
+✨ Highlights
+Modern dark-themed UI with a bold accent color palette
+Fully responsive design for desktop, tablet, and mobile devices
+Sticky navigation with a mobile-friendly hamburger menu
+Interactive hero section with a dynamic typing animation
+Clean, well-structured sections for About, Services, Skills, Projects, Teams, and Contact
+Professional project showcase using case-study style cards
+Smooth hover and focus animations for better user experience
+JavaScript-powered interactive components without external frameworks
+Demo contact form with inline success feedback (frontend only)
+Clean, semantic HTML and maintainable CSS architecture
 
-**JavaScript handles**
-- Toggling the mobile navigation menu (and closing it after a link is tapped)
-- A typing/rotating-role effect in the hero
+🚀 Key Features
+📌 Sticky navigation bar with responsive mobile menu
+🎯 Hero section featuring an animated typing effect
+👨‍💻 About section introducing the developer
+💼 Services section highlighting offered expertise
+📂 Project showcase with technology tags and project links
+⚡ Skills section displaying technical proficiencies
+👥 Teams section presenting collaborators or team members
+📬 Contact form with JavaScript-based submission handling
+🌙 Elegant dark theme with consistent design system
+📱 Responsive layouts using CSS Grid, Flexbox, and media queries (980px & 680px)
+🎨 Smooth hover, transition, and focus effects for improved accessibility
+⚙️ Built entirely with HTML, CSS, and Vanilla JavaScript (no frameworks)
+📈 Optimized structure for performance, readability, and easy future enhancements
 - A demo contact-form submit handler that prevents the default page reload and shows an inline confirmation message (no backend wired up — swap in a real form endpoint to go live)
 
 Responsive breakpoints at `980px` and `680px`; all interactive elements have visible hover/focus states.
