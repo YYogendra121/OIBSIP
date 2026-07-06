@@ -1,98 +1,165 @@
-# Landing Page — Task 1
+# 🌐 Landing Page — Task 1
 
-A static, responsive landing page built with plain HTML5 and CSS3 (no JavaScript, no build step, no dependencies beyond two Google Fonts).
-
-Two versions are included:
-
-| File | Concept | Style |
-|---|---|---|
-| `ledgerline.html` | **Ledgerline** — a B2B finance-ops SaaS | Professional / corporate: navy & blue, product dashboard mockup, trust logos, stats band |
-| `index.html` | **Contact Sheet Co.** — a mail-in film developing lab | Editorial / brand-driven: darkroom palette, filmstrip motif |
-
-Open either file directly in a browser — there's nothing to install or build.
+A modern, fully responsive **Landing Page** built using **HTML5** and **CSS3** without JavaScript. This project demonstrates clean UI design, semantic HTML, responsive layouts, and modern CSS techniques while following front-end development best practices.
 
 ---
 
-## Quick start
+## 📖 Overview
 
-```bash
-# just open it
-open ledgerline.html          # macOS
-start ledgerline.html         # Windows
-xdg-open ledgerline.html      # Linux
+This project contains **two independent landing page concepts**, each designed with a different visual identity and purpose.
+
+| File | Project | Theme |
+|------|---------|-------|
+| `ledgerline.html` | Ledgerline | B2B Finance Operations SaaS |
+| `index.html` | Contact Sheet Co. | Editorial Film Development Brand |
+
+Both pages are completely static and require **no installation, build tools, or external dependencies** beyond Google Fonts.
+
+---
+
+## 🚀 Live Demo
+
+🔗 **Landing Page:** https://your-live-demo-link
+
+---
+
+## 📂 Project Structure
+
+```text
+LandingPage/
+│
+├── index.html
+├── ledgerline.html
+└── README.md
 ```
 
-Or serve it locally if you prefer:
+---
+
+## ▶️ Getting Started
+
+Simply open either HTML file in your preferred web browser.
+
+Or run a local server:
 
 ```bash
 python3 -m http.server 8000
-# then visit http://localhost:8000/ledgerline.html
+```
+
+Visit:
+
+```
+http://localhost:8000/
 ```
 
 ---
 
-## Structure (`ledgerline.html`)
+## ✨ Features
 
-```
-<header class="topbar">      sticky nav — logo, 4 links, sign in, CTA
-<section class="hero">       headline, subheadline, CTA pair, CSS product mockup
-<div class="logo-strip">     "trusted by" text-based logo row
-<section class="features">   6-item feature card grid
-<section class="stats">      4-stat dark band
-<section class="testimonials"> 3 customer quote cards
-<section class="cta-banner"> gradient closing CTA
-<footer>                     5-column link footer + legal bar
-```
-
-All styling lives in a single `<style>` block at the top of the file — no external CSS files, no CSS-in-JS, no build tooling.
-
----
-
-## Design tokens
-
-Defined once as CSS custom properties in `:root`, so the whole palette/type system can be re-themed by editing a handful of variables:
-
-```css
---bg / --bg-alt        backgrounds
---navy / --navy-soft    text + dark sections
---blue / --blue-dark    primary action color
---teal                  secondary/positive accent
---border / --border-2   hairlines
---muted                 secondary text
---display: 'Manrope'    headings
---body: 'Inter'         body copy
---radius / --shadow-*   corner radius + elevation scale
-```
-
-Fonts are pulled from Google Fonts via `<link>` tags in `<head>`; swap the `href` and the `--display` / `--body` variables to re-skin typography.
+- Responsive Landing Page
+- Semantic HTML5
+- Modern CSS3
+- CSS Grid & Flexbox Layout
+- Sticky Navigation Bar
+- Hero Section with CTA
+- CSS-only Product Dashboard Mockup
+- Feature Cards
+- Statistics Section
+- Testimonials
+- Call-to-Action Banner
+- Multi-column Footer
+- Responsive Breakpoints (980px & 680px)
+- CSS Variables (`:root`) for easy customization
+- No JavaScript
+- No Frameworks
 
 ---
 
-## Feature checklist (from the brief)
+## 🎨 Design System
 
-- [x] Sticky nav bar, 4 links (Product / Features / Customers / Pricing) + sign-in + CTA
-- [x] Hero: headline, subheadline, CTA button(s), supporting visual
-- [x] More than 2 content sections (Features, Stats, Testimonials, CTA banner)
-- [x] Footer with contact/social/legal placeholder links
-- [x] Consistent color palette applied across every section
-- [x] Responsive layout via CSS Grid/Flexbox, breakpoints at `980px` and `680px`
-- [x] Explicit `box-sizing: border-box`, padding, and margin — no overlapping elements
-- [x] Two type scales (Manrope display / Inter body) plus a mono-style numeric treatment in the stats
+The entire UI is controlled through CSS Custom Properties.
 
----
+| Variable | Purpose |
+|----------|---------|
+| `--bg` | Background |
+| `--navy` | Primary Text |
+| `--blue` | Primary Accent |
+| `--teal` | Secondary Accent |
+| `--muted` | Secondary Text |
+| `--display` | Manrope Font |
+| `--body` | Inter Font |
 
-## Customizing
-
-- **Copy** — all text is inline in the HTML, no CMS or data file to edit.
-- **Colors** — edit the `:root` variables at the top of the `<style>` block.
-- **Breakpoints** — two `@media` queries near the bottom of the CSS (`980px` tablet, `680px` mobile) control grid collapsing and nav hiding.
-- **Icons** — inline SVGs in the feature cards and hero; swap the `<path>`/`<svg>` markup to change them without adding an icon library.
-- **Product mockup** — the hero's "dashboard" is pure HTML/CSS (`.mockup`), so bar heights, stat values, and row labels can be edited directly with no image assets involved.
+Changing only a few variables allows the entire interface to be re-themed.
 
 ---
 
-## Notes
+## 📐 Layout
 
-- No JavaScript is used or required — this is a static deliverable.
-- No external assets other than the two Google Fonts requests; everything else (icons, mockup, dividers) is inline SVG/CSS.
-- Tested down to ~360px viewport width without horizontal scroll or element overlap.
+The **Ledgerline** landing page includes:
+
+- Sticky Navigation
+- Hero Section
+- Trusted Brands
+- Features Grid
+- Statistics
+- Testimonials
+- CTA Banner
+- Multi-column Footer
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- Google Fonts
+- CSS Grid
+- Flexbox
+
+---
+
+## 📱 Responsive Design
+
+Optimized for:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+Breakpoints:
+
+- **980px**
+- **680px**
+
+---
+
+## 📌 Highlights
+
+- Clean Semantic HTML
+- Modern CSS Architecture
+- Reusable Design Tokens
+- Responsive Layout
+- Accessible Typography
+- Corporate Color Palette
+- Production-inspired UI
+- Lightweight Performance
+
+---
+
+## 📝 Notes
+
+- No JavaScript is used.
+- No external frameworks or libraries.
+- No build tools required.
+- Fully responsive down to **360px** screen width.
+- All icons and illustrations are created using inline SVG and CSS.
+
+---
+
+## 👨‍💻 Author
+
+**Yogee Khadka**
+
+Oasis Infobyte Web Development Internship (OIBSIP)
+
+---
