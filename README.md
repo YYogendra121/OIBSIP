@@ -130,11 +130,8 @@ A modern, fully responsive personal developer portfolio designed to showcase my 
 - 📱 Responsive layouts using CSS Grid, Flexbox, and media queries (980px & 680px)
 - 🎨 Smooth hover, transition, and focus effects for improved accessibility
 - ⚙️ Built entirely with HTML5, CSS3, and Vanilla JavaScript (no frameworks)
-- 📈 Optimized structure for performance, readability, and easy future enhancements
--(frontend only; replace with a real backend endpoint for production)- A demo contact-form submit handler that prevents the default page reload and shows an inline confirmation message (no backend wired up — swap in a real form endpoint to go live)
-
-- A demo contact-form submit handler that prevents the default page reload and shows an inline confirmation message (no backend wired up — swap in a real form endpoint to go live)
-
+- 📈 Optimized structure for performance, readability, and easy future enhancements.
+- 📬 Demo contact form prevents the default page reload and displays an inline confirmation message (frontend only). Replace it with a real backend endpoint for production.
 Responsive breakpoints at `980px` and `680px`; all interactive elements have visible hover/focus states.
 
 ---
