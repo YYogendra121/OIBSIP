@@ -65,6 +65,7 @@ Overall, this project demonstrates responsive web design, semantic HTML, modern 
 <p align="left">
 <b>🔗Live demo:</b>(https://yyogendra121.github.io/Portfoliowebsite/)
 </p>
+
 ## ✨ Highlights
 - Sticky navigation with 4 links, sign-in, and a primary CTA
 - Hero: headline, subheadline, dual CTAs, supporting visual
