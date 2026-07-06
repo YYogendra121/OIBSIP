@@ -8,8 +8,8 @@
 </p>
   Three self-contained front-end projects built for the <b>OIBSIP (Oasis Infobyte)</b> Web Development internship track — no build tools, no package manager, no backend required.
 </p>
-Portfolio website- 🔗 Live demo:(https://yyogendra121.github.io/Portfoliowebsite/)
-Temperature Conveter- 🔗 Live demo:(https://yyogendra121.github.io/Portfoliowebsite/)
+Portfolio website- 🔗 Live demo:(https://yyogendra121.github.io/Portfoliowebsite/).
+Temperature Conveter- 🔗 Live demo:(https://yyogendra121.github.io/Portfoliowebsite/).
 
 ---
 
