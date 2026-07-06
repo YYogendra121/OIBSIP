@@ -131,7 +131,9 @@ A modern, fully responsive personal developer portfolio designed to showcase my 
 - 🎨 Smooth hover, transition, and focus effects for improved accessibility
 - ⚙️ Built entirely with HTML5, CSS3, and Vanilla JavaScript (no frameworks)
 - 📈 Optimized structure for performance, readability, and easy future enhancements.
-- 📬 Demo contact form prevents the default page reload and displays an inline confirmation message (frontend only). Replace it with a real backend endpoint for production.
+- 📬 Demo contact form prevents the default page reload and displays an inline confirmation message (frontend only).
+- Replace it with a real backend endpoint for production.
+
 Responsive breakpoints at `980px` and `680px`; all interactive elements have visible hover/focus states.
 
 ---
