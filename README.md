@@ -57,11 +57,11 @@ A modern, responsive landing page built with **HTML** and **CSS** for **Ledgerli
 The project focuses on clean UI design, responsive layouts, semantic HTML, and modern CSS techniques without using JavaScript.
 **Ledgerline** is a modern, responsive single-page landing website designed for a fictional **B2B Finance Operations SaaS** platform. Built using **HTML** and **CSS** without any JavaScript, the project demonstrates how clean design, semantic markup, and modern CSS techniques can create an engaging and professional marketing experience.
 The landing page is structured to guide visitors through a clear conversion-focused journey, beginning with a compelling hero section featuring a bold headline, supporting content, dual call-to-action buttons, and a CSS-only product dashboard mockup. Additional sections highlight the platform's core features, business metrics, customer testimonials, and a strong call-to-action banner, all culminating in a well-organized multi-column footer with essential navigation and contact links.
-Overall, this project demonstrates responsive web design, semantic HTML, modern CSS architecture, component-based layouts, and UI/UX best practices while delivering a polished, production-inspired landing page suitable for a contemporary SaaS business.
+Overall, this project demonstrates responsive web design, semantic HTML, modern CSS architecture, component-based layouts, and UI/UX best practices while delivering a polished, production-inspired landing page suitable for a contemporary SaaS business.<br>
+**🔗 Live demo:** [yyogendra121.github.io/Portfoliowebsite](https://yyogendra121.github.io/Portfoliowebsite/)
 <p align="center">
   <img src="images/Landpage (1).jpg" alt="Ledgerline landing page image" width="850">
 </p>
-**🔗 Live demo:**(https://yyogendra121.github.io/Portfoliowebsite/)
 ## ✨ Highlights
 - Sticky navigation with 4 links, sign-in, and a primary CTA
 - Hero: headline, subheadline, dual CTAs, supporting visual
@@ -94,7 +94,7 @@ Overall, this project demonstrates responsive web design, semantic HTML, modern 
 **Files:** `task2-portfolio/index.html`, `style.css`, `script.js`
 **Stack:** HTML5, CSS3, vanilla JavaScript
 
-A modern, fully responsive personal developer portfolio designed to showcase my skills, projects, and professional profile. Built with HTML, CSS, and vanilla JavaScript, the website features a sleek dark theme, interactive UI elements, and a mobile-first responsive design to deliver a smooth user experience across all devices.
+A modern, fully responsive personal developer portfolio designed to showcase my skills, projects, and professional profile. Built with HTML, CSS, and vanilla JavaScript, the website features a sleek dark theme, interactive UI elements, and a mobile-first responsive design to deliver a smooth user experience across all devices.<br>
 **🔗 Live demo:** [yyogendra121.github.io/Portfoliowebsite](https://yyogendra121.github.io/Portfoliowebsite/)
 
 <p align="center">
@@ -151,7 +151,7 @@ To ensure accurate and meaningful results, the converter includes comprehensive 
 
 The conversion logic follows a reliable two-step approach by first normalizing the input value to **Celsius** and then calculating the equivalent **Fahrenheit** and **Kelvin** values. This structure keeps the code organized, maintainable, and easy to extend with additional units or features in the future.
 
-Overall, this project demonstrates practical JavaScript programming, responsive UI design, semantic HTML, modern CSS styling, and efficient client-side validation while delivering a fast, lightweight, and user-friendly utility application.
+Overall, this project demonstrates practical JavaScript programming, responsive UI design, semantic HTML, modern CSS styling, and efficient client-side validation while delivering a fast, lightweight, and user-friendly utility application.<br>
 **🔗 Live demo:** [yyogendra121.github.io/Portfoliowebsite](https://yyogendra121.github.io/Portfoliowebsite/)
 <p align="center">
   <img src="images/Temperature.jpg" alt="Temperature converter images" width="850">
