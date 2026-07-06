@@ -9,7 +9,7 @@
 [![Exceptions](https://img.shields.io/badge/Open%20Exceptions-3-f59e0b?style=for-the-badge)](#-live-metrics)
 [![License](https://img.shields.io/badge/License-Proprietary-1e293b?style=for-the-badge)](#-license)
 
-**[🎥 Book a Demo](images/Landpage (1).jpg)** · **[💰 View Pricing](#)** · **[📚 Docs](#)** · **[📈 Status](#)**
+**[🎥 Book a Demo](#)** · **[💰 View Pricing](#)** · **[📚 Docs](#)** · **[📈 Status](#)**
 
 </div>
 
@@ -20,6 +20,9 @@
 Closing the books shouldn't take two weeks. **Ledgerline** gives finance teams one dashboard to track close progress, reconcile accounts automatically, and keep an audit trail clean enough that auditors stop asking questions.
 
 Built for teams that answer to a board — not just a spreadsheet.
+<p align="center">
+  <img src="images/Landpage (1).jpg" alt="Ledgerline landing page image" width="850">
+</p>
 
 <br>
 
