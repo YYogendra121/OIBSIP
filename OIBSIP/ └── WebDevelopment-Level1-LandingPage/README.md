@@ -153,6 +153,9 @@ CFO, Meridian Foods
 </tr>
 </table>
 
+<p align="center">
+  <img src="images/2.jpg" alt="Ledgerline landing page image" width="850">
+</p>
 <br>
 
 ## 🚀 Getting Started
