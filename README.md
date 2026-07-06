@@ -58,7 +58,6 @@ The project focuses on clean UI design, responsive layouts, semantic HTML, and m
 **Ledgerline** is a modern, responsive single-page landing website designed for a fictional **B2B Finance Operations SaaS** platform. Built using **HTML** and **CSS** without any JavaScript, the project demonstrates how clean design, semantic markup, and modern CSS techniques can create an engaging and professional marketing experience.
 The landing page is structured to guide visitors through a clear conversion-focused journey, beginning with a compelling hero section featuring a bold headline, supporting content, dual call-to-action buttons, and a CSS-only product dashboard mockup. Additional sections highlight the platform's core features, business metrics, customer testimonials, and a strong call-to-action banner, all culminating in a well-organized multi-column footer with essential navigation and contact links.
 Overall, this project demonstrates responsive web design, semantic HTML, modern CSS architecture, component-based layouts, and UI/UX best practices while delivering a polished, production-inspired landing page suitable for a contemporary SaaS business.<br>
-
 <p align="center">
   <img src="images/Landpage (1).jpg" alt="Ledgerline landing page image" width="850">
 </p>
@@ -121,6 +120,8 @@ A modern, fully responsive personal developer portfolio designed to showcase my 
 
 ## 🚀 Key Features
 
+## 🚀 Key Features
+
 - 📌 Sticky navigation bar with responsive mobile menu
 - 🎯 Hero section featuring an animated typing effect
 - 👨‍💻 About section introducing the developer
@@ -134,7 +135,7 @@ A modern, fully responsive personal developer portfolio designed to showcase my 
 - 🎨 Smooth hover, transition, and focus effects for improved accessibility
 - ⚙️ Built entirely with HTML5, CSS3, and Vanilla JavaScript (no frameworks)
 - 📈 Optimized structure for performance, readability, and easy future enhancements
-- 🔄 Demo contact form prevents page reload and displays an inline success message (frontend only; replace with a real backend endpoint for production)- A demo contact-form submit handler that prevents the default page reload and shows an inline confirmation message (no backend wired up — swap in a real form endpoint to go live)
+-(frontend only; replace with a real backend endpoint for production)- A demo contact-form submit handler that prevents the default page reload and shows an inline confirmation message (no backend wired up — swap in a real form endpoint to go live)
 
 - A demo contact-form submit handler that prevents the default page reload and shows an inline confirmation message (no backend wired up — swap in a real form endpoint to go live)
 
@@ -149,13 +150,8 @@ Responsive breakpoints at `980px` and `680px`; all interactive elements have vis
 
 A single-card utility app — **Thermo** — that converts a temperature value between **Celsius, Fahrenheit, and Kelvin**, live, as you type.
 **Thermo** is a modern, responsive temperature converter web application built with **HTML, CSS, and Vanilla JavaScript**. It provides an intuitive interface for converting temperature values between **Celsius (°C), Fahrenheit (°F), and Kelvin (K)** with instant, real-time updates as the user types. The application eliminates the need for a submit button by performing conversions dynamically through JavaScript event listeners, creating a smooth and interactive user experience.
-
-Designed with a clean single-card layout, the application emphasizes simplicity, readability, and usability while demonstrating core front-end development concepts such as DOM manipulation, event handling, input validation, and responsive web design. The currently selected input unit is visually highlighted, making it easy for users to identify the source measurement at a glance.
-
 To ensure accurate and meaningful results, the converter includes comprehensive validation. Empty inputs automatically clear the output, non-numeric entries display an inline error message, and temperatures below **absolute zero** are rejected with an explanatory warning. For educational purposes, the application also displays the standard temperature conversion formulas, helping users understand the mathematical relationships between the three temperature scales.
-
 The conversion logic follows a reliable two-step approach by first normalizing the input value to **Celsius** and then calculating the equivalent **Fahrenheit** and **Kelvin** values. This structure keeps the code organized, maintainable, and easy to extend with additional units or features in the future.
-
 Overall, this project demonstrates practical JavaScript programming, responsive UI design, semantic HTML, modern CSS styling, and efficient client-side validation while delivering a fast, lightweight, and user-friendly utility application.<br>
 <p align="center">
   <img src="images/Temperature.jpg" alt="Temperature converter images" width="850">
