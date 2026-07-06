@@ -58,7 +58,7 @@ The project focuses on clean UI design, responsive layouts, semantic HTML, and m
   <img src="images/Landpage (1).jpg" alt="Ledgerline landing page image" width="850">
 </p>
 
-**Highlights**
+## ✨ Highlights
 - Sticky navigation with 4 links, sign-in, and a primary CTA
 - Hero: headline, subheadline, dual CTAs, supporting visual
 - 4 additional content sections (Features, Stats, Testimonials, CTA banner)
@@ -69,7 +69,7 @@ The project focuses on clean UI design, responsive layouts, semantic HTML, and m
 - Two type families (Manrope for display, Inter for body) plus a numeric/mono treatment in the stats band
 
 > `contact-sheet-co.html` is a second, editorial-style take on the same brief (a mail-in film-developing brand) kept for reference/comparison.
-# ✨ Features
+## 🚀 Key Features
 
 - Responsive Landing Page
 - Sticky Navigation Bar
