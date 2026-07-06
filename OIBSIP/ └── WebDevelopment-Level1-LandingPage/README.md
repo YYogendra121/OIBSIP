@@ -81,47 +81,9 @@ Financial-grade controls, by default.
 
 ## 🗺️ Site Map
 
-<table>
-<tr>
-<td valign="top">
-
-**Product**
-- Features
-- Integrations
-- Security
-- Pricing
-
-</td>
-<td valign="top">
-
-**Company**
-- About
-- Customers
-- Careers
-- Contact
-
-</td>
-<td valign="top">
-
-**Resources**
-- Docs
-- Close calendar guide
-- Blog
-- Status
-
-</td>
-<td valign="top">
-
-**Legal**
-- Privacy
-- Terms
-- DPA
-
-</td>
-</tr>
-</table>
-<br>
-
+<p align="center">
+  <img src="images/footer.jpg" alt="Ledgerline landing page image" width="850">
+</p>
 ## 🚀 Getting Started
 
 ```bash
