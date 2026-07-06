@@ -51,8 +51,6 @@ python3 -m http.server 8000
 A modern, responsive landing page built with **HTML** and **CSS** for **Ledgerline**, a fictional B2B Finance Operations SaaS platform.
 The project focuses on clean UI design, responsive layouts, semantic HTML, and modern CSS techniques without using JavaScript.
 
----
-
 **🔗 Live demo:** [yyogendra121.github.io/Portfoliowebsite](https://yyogendra121.github.io/Portfoliowebsite/)
 <p align="center">
   <img src="images/Landpage (1).jpg" alt="Ledgerline landing page image" width="850">
