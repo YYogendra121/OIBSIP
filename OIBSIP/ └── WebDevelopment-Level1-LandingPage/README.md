@@ -34,10 +34,6 @@ Built for teams that answer to a board — not just a spreadsheet.
 | ↓ 61% vs. last year | ↑ 98.8% | ↓ 12 this week |
 
 </div>
-```
-Accounts Receivable <br>  ● Reconciled
-Payroll Clearing    <br>  ● Reconciled
-```
 <p align="center">
   <img src="images/graph.jpg" alt="Ledgerline landing page image" width="850">
 </p>
