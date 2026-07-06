@@ -9,7 +9,7 @@
 [![Exceptions](https://img.shields.io/badge/Open%20Exceptions-3-f59e0b?style=for-the-badge)](#-live-metrics)
 [![License](https://img.shields.io/badge/License-Proprietary-1e293b?style=for-the-badge)](#-license)
 
-**[🎥 Book a Demo](#)** · **[💰 View Pricing](#)** · **[📚 Docs](#)** · **[📈 Status](#)**
+**[🎥 Book a Demo](images/Landpage (1).jpg)** · **[💰 View Pricing](#)** · **[📚 Docs](#)** · **[📈 Status](#)**
 
 </div>
 
