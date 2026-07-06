@@ -82,32 +82,9 @@ Financial-grade controls, by default.
 
 *"We went from an eleven-day close to under four. The exception queue alone saved our team a full week every month."*
 
-**Elena Marsh**
-VP Finance, Northwind
-
-</td>
-<td width="33%" valign="top">
-
-★★★★★
-
-*"Our auditors said it was the cleanest trail they'd seen from a mid-market company."*
-
-**Daniel Cho**
-Controller, Ashgrove
-
-</td>
-<td width="33%" valign="top">
-
-★★★★★
-
-*"Ledgerline paid for itself in the first quarter just from the analyst hours we got back."*
-
-**Priya Nathan**
-CFO, Meridian Foods
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="images/2.jpg" alt="Ledgerline landing page image" width="850">
+</p>
 
 <br>
 
@@ -152,10 +129,6 @@ CFO, Meridian Foods
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="images/2.jpg" alt="Ledgerline landing page image" width="850">
-</p>
 <br>
 
 ## 🚀 Getting Started
