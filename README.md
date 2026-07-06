@@ -60,9 +60,8 @@ The landing page is structured to guide visitors through a clear conversion-focu
 Overall, this project demonstrates responsive web design, semantic HTML, modern CSS architecture, component-based layouts, and UI/UX best practices while delivering a polished, production-inspired landing page suitable for a contemporary SaaS business.
 <p align="center">
   <img src="images/Landpage (1).jpg" alt="Ledgerline landing page image" width="850">
-  **🔗 Live demo:** [yyogendra121.github.io/Portfoliowebsite](https://yyogendra121.github.io/Portfoliowebsite/)
 </p>
-
+**🔗 Live demo:**(https://yyogendra121.github.io/Portfoliowebsite/)
 ## ✨ Highlights
 - Sticky navigation with 4 links, sign-in, and a primary CTA
 - Hero: headline, subheadline, dual CTAs, supporting visual
