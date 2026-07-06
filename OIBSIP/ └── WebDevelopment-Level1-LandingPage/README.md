@@ -1,218 +1,190 @@
-# 🚀 Modern Responsive Landing Pages
+<div align="center">
 
-<p align="center">
+# 📊 Ledgerline
 
-A collection of clean, responsive, modern landing pages built using **HTML5** and **CSS3**.
+### Reconciliation and close management for finance teams that report to a board.
 
-Designed with semantic HTML, reusable CSS architecture, responsive layouts, and production-inspired UI.
+[![Close Time](https://img.shields.io/badge/Close%20Time-3.2%20days-6366f1?style=for-the-badge)](#-live-metrics)
+[![Reconciled](https://img.shields.io/badge/Reconciled-98.8%25-22c55e?style=for-the-badge)](#-live-metrics)
+[![Exceptions](https://img.shields.io/badge/Open%20Exceptions-3-f59e0b?style=for-the-badge)](#-live-metrics)
+[![License](https://img.shields.io/badge/License-Proprietary-1e293b?style=for-the-badge)](#-license)
 
-</p>
+**[🎥 Book a Demo](#)** · **[💰 View Pricing](#)** · **[📚 Docs](#)** · **[📈 Status](#)**
 
----
-
-## 📸 Preview
-
-### Ledgerline Landing Page
-
-![Hero](images/hero.png)
+</div>
 
 ---
 
-### Product Dashboard
+## 🧭 What is Ledgerline?
 
-![Dashboard](images/dashboard.png)
+Closing the books shouldn't take two weeks. **Ledgerline** gives finance teams one dashboard to track close progress, reconcile accounts automatically, and keep an audit trail clean enough that auditors stop asking questions.
 
----
+Built for teams that answer to a board — not just a spreadsheet.
 
-### Testimonials
+<br>
 
-![Testimonials](images/testimonials.png)
+## 📈 Live Metrics
 
----
+<div align="center">
 
-### Footer & CTA
+| ⏱️ Close Time | ✅ Accounts Reconciled | 🚩 Open Exceptions |
+|:---:|:---:|:---:|
+| **3.2 days** | **248 / 251** | **3** |
+| ↓ 61% vs. last year | ↑ 98.8% | ↓ 12 this week |
 
-![Footer](images/footer.png)
-
----
-
-# 📖 About
-
-This repository contains **two fully responsive landing page concepts**, each designed for a different audience.
-
-| File | Project | Category |
-|------|----------|----------|
-| **ledgerline.html** | Ledgerline | Finance SaaS |
-| **index.html** | Contact Sheet Co. | Editorial / Creative Agency |
-
-Both pages are built using only HTML and CSS.
-
-No JavaScript.
-
-No Frameworks.
-
-No Build Tools.
-
----
-
-# ✨ Features
-
-- ✅ Fully Responsive
-- ✅ Semantic HTML5
-- ✅ Modern CSS3
-- ✅ CSS Grid
-- ✅ Flexbox
-- ✅ Sticky Navigation
-- ✅ Hero Section
-- ✅ Statistics Section
-- ✅ Dashboard Mockup
-- ✅ Testimonials
-- ✅ CTA Banner
-- ✅ Multi-column Footer
-- ✅ CSS Variables
-- ✅ Mobile Friendly
-- ✅ Lightweight
-- ✅ No JavaScript
-
----
-
-# 🛠 Built With
-
-| Technology | Usage |
-|------------|-------|
-| HTML5 | Structure |
-| CSS3 | Styling |
-| Flexbox | Layout |
-| CSS Grid | Responsive Grid |
-| Google Fonts | Typography |
-| SVG | Icons |
-
----
-
-# 📱 Responsive
-
-Optimized for
-
-- 💻 Desktop
-- 💼 Laptop
-- 📱 Tablet
-- 📲 Mobile
-
-### Breakpoints
+</div>
 
 ```
-980px
-680px
-360px
+Accounts Receivable   ● Reconciled
+Payroll Clearing      ● Reconciled
 ```
 
----
+<br>
 
-# 🎨 Design System
+## ✨ Features
 
-The UI uses CSS Variables for easy customization.
+<table>
+<tr>
+<td width="50%">
 
-```css
-:root{
+### 🔄 Automated Reconciliation
+Match transactions across every account with minimal manual review.
 
---bg
---navy
---blue
---teal
---muted
+### 🚨 Exception Queue
+Catch mismatches early — not on close day.
 
---display
---body
+### 🏢 Multi-Entity Support
+One dashboard, every entity, one close calendar.
 
-}
-```
+</td>
+<td width="50%">
 
-Changing only these variables allows the entire website to be re-themed.
+### 🔍 Audit-Ready Trail
+A history so clean, auditors move faster.
 
----
+### ⚡ Fast Onboarding
+Most teams go live in under two weeks.
 
-# 📂 Project Structure
+### 🔒 Enterprise Security
+Financial-grade controls, by default.
 
-```text
-LandingPage/
-│
-├── images/
-│   ├── hero.png
-│   ├── dashboard.png
-│   ├── testimonials.png
-│   └── footer.png
-│
-├── index.html
-├── ledgerline.html
-└── README.md
-```
+</td>
+</tr>
+</table>
 
----
+<br>
 
-# 🚀 Getting Started
+## 💬 Loved by Finance Leaders
 
-Clone the repository
+<table>
+<tr>
+<td width="33%" valign="top">
+
+★★★★★
+
+*"We went from an eleven-day close to under four. The exception queue alone saved our team a full week every month."*
+
+**Elena Marsh**
+VP Finance, Northwind
+
+</td>
+<td width="33%" valign="top">
+
+★★★★★
+
+*"Our auditors said it was the cleanest trail they'd seen from a mid-market company."*
+
+**Daniel Cho**
+Controller, Ashgrove
+
+</td>
+<td width="33%" valign="top">
+
+★★★★★
+
+*"Ledgerline paid for itself in the first quarter just from the analyst hours we got back."*
+
+**Priya Nathan**
+CFO, Meridian Foods
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🗺️ Site Map
+
+<table>
+<tr>
+<td valign="top">
+
+**Product**
+- Features
+- Integrations
+- Security
+- Pricing
+
+</td>
+<td valign="top">
+
+**Company**
+- About
+- Customers
+- Careers
+- Contact
+
+</td>
+<td valign="top">
+
+**Resources**
+- Docs
+- Close calendar guide
+- Blog
+- Status
+
+</td>
+<td valign="top">
+
+**Legal**
+- Privacy
+- Terms
+- DPA
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/LandingPage.git
+# Clone the repo
+git clone https://github.com/your-org/ledgerline.git
+cd ledgerline
+
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
 ```
 
-Open the project
+<br>
 
-```bash
-cd LandingPage
-```
+<div align="center">
 
-Run a local server
+## Ready to close faster this quarter?
 
-```bash
-python3 -m http.server 8000
-```
+Talk to our team about a rollout plan tailored to your entities and close calendar.
 
-Open
+**[Book a Demo](#)** &nbsp;|&nbsp; **[View Pricing](#)**
 
-```
-http://localhost:8000
-```
+<br>
 
----
+<sub>© 2026 Ledgerline, Inc. All rights reserved.</sub>
+<br>
+<sub>LinkedIn · Twitter · Instagram</sub>
 
-# 📌 Project Highlights
-
-- Modern UI
-- Corporate Color Palette
-- Production-inspired Design
-- Accessible Typography
-- Reusable Components
-- Clean CSS Architecture
-- Responsive Layout
-- Lightweight Performance
-- Internship Ready
-
----
-
-# 📷 Screenshots
-
-| Hero | Dashboard |
-|------|-----------|
-| ![](images/hero.png) | ![](images/dashboard.png) |
-
-| Testimonials | Footer |
-|--------------|--------|
-| ![](images/testimonials.png) | ![](images/footer.png) |
-
----
-
-# 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
-# 👨‍💻 Author
-
-### Yogee Khadka
-
-**Oasis Infobyte Web Development Internship (OIBSIP)**
-
-⭐ If you like this project, consider giving it a **Star** on GitHub.
+</div>
