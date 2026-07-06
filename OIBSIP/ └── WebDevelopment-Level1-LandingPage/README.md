@@ -35,8 +35,8 @@ Built for teams that answer to a board — not just a spreadsheet.
 
 </div>
 ```
-Accounts Receivable   ● Reconciled
-Payroll Clearing      ● Reconciled
+Accounts Receivable <br>  ● Reconciled
+Payroll Clearing    <br>  ● Reconciled
 ```
 <p align="center">
   <img src="images/graph.jpg" alt="Ledgerline landing page image" width="850">
