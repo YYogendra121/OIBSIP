@@ -39,7 +39,9 @@ oibsip/
 Every task can be run the same way — just open its `index.html` in a browser, or serve the folder locally:
 
 ```bash
-cd task1-landing-page   # or task2-portfolio / task3-temperature-converter
+cd task1-landing-page
+# or task2-portfolio /
+task3-temperature-converter
 python3 -m http.server 8000
 # visit http://localhost:8000
 ```
