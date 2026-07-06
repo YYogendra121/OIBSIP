@@ -98,11 +98,12 @@ Overall, this project demonstrates responsive web design, semantic HTML, modern 
 **Files:** `task2-portfolio/index.html`, `style.css`, `script.js`
 **Stack:** HTML5, CSS3, vanilla JavaScript
 
-A modern, fully responsive personal developer portfolio designed to showcase my skills, projects, and professional profile. Built with HTML, CSS, and vanilla JavaScript, the website features a sleek dark theme, interactive UI elements, and a mobile-first responsive design to deliver a smooth user experience across all devices.<br>
-**🔗 Live demo:** [yyogendra121.github.io/Portfoliowebsite](https://yyogendra121.github.io/Portfoliowebsite/)
-
+A modern, fully responsive personal developer portfolio designed to showcase my skills, projects, and professional profile. Built with HTML, CSS, and vanilla JavaScript, the website features a sleek dark theme, interactive UI elements, and a mobile-first responsive design to deliver a smooth user experience across all devices.
 <p align="center">
   <img src="images/Portfolio.jpg" alt="Portfolio website image" width="850">
+</p>
+<p align="left">
+<b>🔗Live demo:</b>(https://yyogendra121.github.io/Portfoliowebsite/)
 </p>
 
 ## ✨ Highlights
@@ -156,10 +157,13 @@ To ensure accurate and meaningful results, the converter includes comprehensive 
 The conversion logic follows a reliable two-step approach by first normalizing the input value to **Celsius** and then calculating the equivalent **Fahrenheit** and **Kelvin** values. This structure keeps the code organized, maintainable, and easy to extend with additional units or features in the future.
 
 Overall, this project demonstrates practical JavaScript programming, responsive UI design, semantic HTML, modern CSS styling, and efficient client-side validation while delivering a fast, lightweight, and user-friendly utility application.<br>
-**🔗 Live demo:** [yyogendra121.github.io/Portfoliowebsite](https://yyogendra121.github.io/Portfoliowebsite/)
 <p align="center">
   <img src="images/Temperature.jpg" alt="Temperature converter images" width="850">
 </p>
+<p align="left">
+<b>🔗Live demo:</b>(https://yyogendra121.github.io/Portfoliowebsite/)
+</p>
+
 
 ## ✨ Highlights
 
