@@ -23,7 +23,6 @@ Built for teams that answer to a board — not just a spreadsheet.
 <p align="center">
   <img src="images/Landpage (1).jpg" alt="Ledgerline landing page image" width="850">
 </p>
-
 <br>
 
 ## 📈 Live Metrics
@@ -36,12 +35,13 @@ Built for teams that answer to a board — not just a spreadsheet.
 | ↓ 61% vs. last year | ↑ 98.8% | ↓ 12 this week |
 
 </div>
-
 ```
 Accounts Receivable   ● Reconciled
 Payroll Clearing      ● Reconciled
 ```
-
+<p align="center">
+  <img src="images/graph.jpg" alt="Ledgerline landing page image" width="850">
+</p>
 <br>
 
 ## ✨ Features
