@@ -141,25 +141,52 @@ Responsive breakpoints at `980px` and `680px`; all interactive elements have vis
 ## 🌡️ Task 3 — Temperature Converter
 
 **Files:** `task3-temperature-converter/index.html`, `style.css`, `script.js`
-**Stack:** HTML5, CSS3, vanilla JavaScript
+**Stack:** HTML, CSS, vanilla JavaScript
 
 A single-card utility app — **Thermo** — that converts a temperature value between **Celsius, Fahrenheit, and Kelvin**, live, as you type.
+**Thermo** is a modern, responsive temperature converter web application built with **HTML, CSS, and Vanilla JavaScript**. It provides an intuitive interface for converting temperature values between **Celsius (°C), Fahrenheit (°F), and Kelvin (K)** with instant, real-time updates as the user types. The application eliminates the need for a submit button by performing conversions dynamically through JavaScript event listeners, creating a smooth and interactive user experience.
 
+Designed with a clean single-card layout, the application emphasizes simplicity, readability, and usability while demonstrating core front-end development concepts such as DOM manipulation, event handling, input validation, and responsive web design. The currently selected input unit is visually highlighted, making it easy for users to identify the source measurement at a glance.
+
+To ensure accurate and meaningful results, the converter includes comprehensive validation. Empty inputs automatically clear the output, non-numeric entries display an inline error message, and temperatures below **absolute zero** are rejected with an explanatory warning. For educational purposes, the application also displays the standard temperature conversion formulas, helping users understand the mathematical relationships between the three temperature scales.
+
+The conversion logic follows a reliable two-step approach by first normalizing the input value to **Celsius** and then calculating the equivalent **Fahrenheit** and **Kelvin** values. This structure keeps the code organized, maintainable, and easy to extend with additional units or features in the future.
+
+Overall, this project demonstrates practical JavaScript programming, responsive UI design, semantic HTML, modern CSS styling, and efficient client-side validation while delivering a fast, lightweight, and user-friendly utility application.
 **🔗 Live demo:** [yyogendra121.github.io/Portfoliowebsite](https://yyogendra121.github.io/Portfoliowebsite/)
 <p align="center">
   <img src="images/Temperature.jpg" alt="Temperature converter images" width="850">
 </p>
 
-**Highlights**
-- One numeric input + a "from unit" dropdown (Celsius / Fahrenheit / Kelvin)
-- All three converted values update on every keystroke (`input`/`change` events — no submit button needed)
-- The unit you typed in is visually highlighted among the three result cards
-- Input validation:
-  - Empty input clears the results silently
-  - A non-numeric value shows an inline error
-  - A value below absolute zero (−273.15 °C) is rejected with an explanatory error message
-- Conversion formulas shown at the bottom of the card for reference
+## ✨ Highlights
 
+- Modern single-card UI with a clean and responsive design
+- Real-time temperature conversion as you type
+- Supports Celsius, Fahrenheit, and Kelvin units
+- Instant updates using JavaScript input and change events
+- Visually highlights the selected input unit
+- Smart input validation with clear inline error messages
+- Rejects temperatures below absolute zero with an explanatory message
+- Automatically clears results for empty input
+- Displays temperature conversion formulas for quick reference
+- Built entirely with HTML5, CSS3, and Vanilla JavaScript (no frameworks)
+
+---
+
+## 🚀 Key Features
+
+- 🌡️ Convert temperatures between Celsius, Fahrenheit, and Kelvin
+- ⚡ Live conversion without requiring a submit button
+- 🔄 Updates all three temperature values simultaneously
+- 📥 Numeric input with unit selection dropdown
+- 🎯 Highlights the active input unit in the results
+- ❌ Inline validation for non-numeric input
+- 🧊 Prevents values below absolute zero with descriptive feedback
+- 📖 Displays standard conversion formulas at the bottom of the application
+- 📱 Fully responsive layout for desktop, tablet, and mobile devices
+- 🎨 Clean UI with smooth hover and focus effects
+- ⚙️ Efficient conversion logic by normalizing all inputs to Celsius before calculating other units
+- 🚀 Lightweight, fast, and built using only HTML5, CSS3, and Vanilla JavaScript
 Conversion logic (`script.js`) normalizes whatever unit is entered to Celsius first, then derives the other two:
 
 ```js
