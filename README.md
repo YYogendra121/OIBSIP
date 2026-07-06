@@ -62,8 +62,8 @@ Overall, this project demonstrates responsive web design, semantic HTML, modern 
 <p align="center">
   <img src="images/Landpage (1).jpg" alt="Ledgerline landing page image" width="850">
 </p>
-<p align="center">
-**🔗 Live demo:**(https://yyogendra121.github.io/Portfoliowebsite/)
+<p align="left">
+<b>🔗Live demo:</b>(https://yyogendra121.github.io/Portfoliowebsite/)
 </p>
 ## ✨ Highlights
 - Sticky navigation with 4 links, sign-in, and a primary CTA
