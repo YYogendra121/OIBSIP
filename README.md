@@ -17,7 +17,7 @@
 ## 📁 Project Structure
 
 ```
-oibsip/
+OIBSIP/
 ├── LICENSE
 ├── README.md
 ├── WebDevelopment-Level1-LandingPage/
