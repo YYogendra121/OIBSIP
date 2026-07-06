@@ -18,17 +18,17 @@
 
 ```
 oibsip/
-├── Licence
+├── LICENSE
 ├── README.md
-├── task1-landing-page/
-│   ├── index.html              → primary submission (Ledgerline — SaaS landing page)
-│   └── contact-sheet-co.html   → alternate concept (film-lab brand landing page)
-├── task2-portfolio/
+├── WebDevelopment-Level1-LandingPage/
+│   ├── index.html             
+│   └── style.css
+├── WebDevelopment-Level1-Portfolio/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
 │   └── images
-└── task3-temperature-converter/
+└── WebDevelopment-Level1-TemperatureConverter/
     ├── index.html
     ├── style.css
     └── script.js
@@ -45,7 +45,13 @@ task3-temperature-converter
 python3 -m http.server 8000
 # visit http://localhost:8000
 ```
+## 📌 Projects
 
+| Task | Project | Technologies | Live Demo |
+|------|---------|--------------|-----------|
+| Task 1 | Landing Page | HTML, CSS | ✅ |
+| Task 2 | Portfolio | HTML, CSS, JavaScript | ✅ |
+| Task 3 | Temperature Converter | HTML, CSS, JavaScript | ✅ |
 ---
 
 ## 🧾 Task 1 — Landing Page
