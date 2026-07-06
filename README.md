@@ -209,7 +209,9 @@ C = (F − 32) × 5/9
 - No external dependencies beyond Google Fonts (`<link>` tags in each `<head>`) — everything else (icons, mockups, layout) is hand-written HTML/CSS/JS.
 - Each task folder is independent and can be zipped/deployed separately (e.g. to GitHub Pages, Netlify, or Vercel) without pulling in the other two.
 
----
+  
 <p align="center">
   Made with ❤️ during the <b>Oasis Infobyte Web Development Internship</b>
 </p>
+
+---
