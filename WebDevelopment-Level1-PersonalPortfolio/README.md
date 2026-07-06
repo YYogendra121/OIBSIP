@@ -18,8 +18,8 @@
 Hey, I'm **Yogendra Singh** — a Software Engineer & Web Designer who loves turning complex problems into simple, elegant solutions. This portfolio is where I showcase my projects, skills, and journey as a developer.
 <p align="center">
   <img src="About section.jpg" alt="Ledgerline landing page image" width="850">
-</p>
-> 🚧 **Status:** Actively under construction — new projects and features dropping soon!
+</p> 
+🚧 **Status:** Actively under construction — new projects and features dropping soon!
 
 ---
 
@@ -35,6 +35,9 @@ Hey, I'm **Yogendra Singh** — a Software Engineer & Web Designer who loves tur
 | 🤝 **Teams** | Collaborators & teammates |
 | 📩 **Contact** | Let's connect and work together |
 
+<p align="center">
+  <img src="first page.jpg" alt="Ledgerline landing page image" width="850">
+</p> 
 ---
 
 ## 💼 Featured Projects
