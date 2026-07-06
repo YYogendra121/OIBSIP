@@ -18,6 +18,7 @@
 
 ```
 oibsip/
+├── Licence
 ├── README.md
 ├── task1-landing-page/
 │   ├── index.html              → primary submission (Ledgerline — SaaS landing page)
@@ -26,6 +27,7 @@ oibsip/
 │   ├── index.html
 │   ├── style.css
 │   └── script.js
+│   └── images
 └── task3-temperature-converter/
     ├── index.html
     ├── style.css
