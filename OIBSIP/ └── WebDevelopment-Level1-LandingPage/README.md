@@ -1,32 +1,146 @@
-# 🌐 Landing Page — Task 1
+# 🚀 Modern Responsive Landing Pages
 
-A modern, fully responsive **Landing Page** built using **HTML5** and **CSS3** without JavaScript. This project demonstrates clean UI design, semantic HTML, responsive layouts, and modern CSS techniques while following front-end development best practices.
+<p align="center">
 
----
+A collection of clean, responsive, modern landing pages built using **HTML5** and **CSS3**.
 
-## 📖 Overview
+Designed with semantic HTML, reusable CSS architecture, responsive layouts, and production-inspired UI.
 
-This project contains **two independent landing page concepts**, each designed with a different visual identity and purpose.
-
-| File | Project | Theme |
-|------|---------|-------|
-| `ledgerline.html` | Ledgerline | B2B Finance Operations SaaS |
-| `index.html` | Contact Sheet Co. | Editorial Film Development Brand |
-
-Both pages are completely static and require **no installation, build tools, or external dependencies** beyond Google Fonts.
+</p>
 
 ---
 
-## 🚀 Live Demo
+## 📸 Preview
 
-🔗 **Landing Page:** https://your-live-demo-link
+### Ledgerline Landing Page
+
+![Hero](images/hero.png)
 
 ---
 
-## 📂 Project Structure
+### Product Dashboard
+
+![Dashboard](images/dashboard.png)
+
+---
+
+### Testimonials
+
+![Testimonials](images/testimonials.png)
+
+---
+
+### Footer & CTA
+
+![Footer](images/footer.png)
+
+---
+
+# 📖 About
+
+This repository contains **two fully responsive landing page concepts**, each designed for a different audience.
+
+| File | Project | Category |
+|------|----------|----------|
+| **ledgerline.html** | Ledgerline | Finance SaaS |
+| **index.html** | Contact Sheet Co. | Editorial / Creative Agency |
+
+Both pages are built using only HTML and CSS.
+
+No JavaScript.
+
+No Frameworks.
+
+No Build Tools.
+
+---
+
+# ✨ Features
+
+- ✅ Fully Responsive
+- ✅ Semantic HTML5
+- ✅ Modern CSS3
+- ✅ CSS Grid
+- ✅ Flexbox
+- ✅ Sticky Navigation
+- ✅ Hero Section
+- ✅ Statistics Section
+- ✅ Dashboard Mockup
+- ✅ Testimonials
+- ✅ CTA Banner
+- ✅ Multi-column Footer
+- ✅ CSS Variables
+- ✅ Mobile Friendly
+- ✅ Lightweight
+- ✅ No JavaScript
+
+---
+
+# 🛠 Built With
+
+| Technology | Usage |
+|------------|-------|
+| HTML5 | Structure |
+| CSS3 | Styling |
+| Flexbox | Layout |
+| CSS Grid | Responsive Grid |
+| Google Fonts | Typography |
+| SVG | Icons |
+
+---
+
+# 📱 Responsive
+
+Optimized for
+
+- 💻 Desktop
+- 💼 Laptop
+- 📱 Tablet
+- 📲 Mobile
+
+### Breakpoints
+
+```
+980px
+680px
+360px
+```
+
+---
+
+# 🎨 Design System
+
+The UI uses CSS Variables for easy customization.
+
+```css
+:root{
+
+--bg
+--navy
+--blue
+--teal
+--muted
+
+--display
+--body
+
+}
+```
+
+Changing only these variables allows the entire website to be re-themed.
+
+---
+
+# 📂 Project Structure
 
 ```text
 LandingPage/
+│
+├── images/
+│   ├── hero.png
+│   ├── dashboard.png
+│   ├── testimonials.png
+│   └── footer.png
 │
 ├── index.html
 ├── ledgerline.html
@@ -35,131 +149,70 @@ LandingPage/
 
 ---
 
-## ▶️ Getting Started
+# 🚀 Getting Started
 
-Simply open either HTML file in your preferred web browser.
+Clone the repository
 
-Or run a local server:
+```bash
+git clone https://github.com/yourusername/LandingPage.git
+```
+
+Open the project
+
+```bash
+cd LandingPage
+```
+
+Run a local server
 
 ```bash
 python3 -m http.server 8000
 ```
 
-Visit:
+Open
 
 ```
-http://localhost:8000/
+http://localhost:8000
 ```
 
 ---
 
-## ✨ Features
+# 📌 Project Highlights
 
-- Responsive Landing Page
-- Semantic HTML5
-- Modern CSS3
-- CSS Grid & Flexbox Layout
-- Sticky Navigation Bar
-- Hero Section with CTA
-- CSS-only Product Dashboard Mockup
-- Feature Cards
-- Statistics Section
-- Testimonials
-- Call-to-Action Banner
-- Multi-column Footer
-- Responsive Breakpoints (980px & 680px)
-- CSS Variables (`:root`) for easy customization
-- No JavaScript
-- No Frameworks
-
----
-
-## 🎨 Design System
-
-The entire UI is controlled through CSS Custom Properties.
-
-| Variable | Purpose |
-|----------|---------|
-| `--bg` | Background |
-| `--navy` | Primary Text |
-| `--blue` | Primary Accent |
-| `--teal` | Secondary Accent |
-| `--muted` | Secondary Text |
-| `--display` | Manrope Font |
-| `--body` | Inter Font |
-
-Changing only a few variables allows the entire interface to be re-themed.
-
----
-
-## 📐 Layout
-
-The **Ledgerline** landing page includes:
-
-- Sticky Navigation
-- Hero Section
-- Trusted Brands
-- Features Grid
-- Statistics
-- Testimonials
-- CTA Banner
-- Multi-column Footer
-
----
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- Google Fonts
-- CSS Grid
-- Flexbox
-
----
-
-## 📱 Responsive Design
-
-Optimized for:
-
-- Desktop
-- Laptop
-- Tablet
-- Mobile
-
-Breakpoints:
-
-- **980px**
-- **680px**
-
----
-
-## 📌 Highlights
-
-- Clean Semantic HTML
-- Modern CSS Architecture
-- Reusable Design Tokens
-- Responsive Layout
-- Accessible Typography
+- Modern UI
 - Corporate Color Palette
-- Production-inspired UI
+- Production-inspired Design
+- Accessible Typography
+- Reusable Components
+- Clean CSS Architecture
+- Responsive Layout
 - Lightweight Performance
+- Internship Ready
 
 ---
 
-## 📝 Notes
+# 📷 Screenshots
 
-- No JavaScript is used.
-- No external frameworks or libraries.
-- No build tools required.
-- Fully responsive down to **360px** screen width.
-- All icons and illustrations are created using inline SVG and CSS.
+| Hero | Dashboard |
+|------|-----------|
+| ![](images/hero.png) | ![](images/dashboard.png) |
+
+| Testimonials | Footer |
+|--------------|--------|
+| ![](images/testimonials.png) | ![](images/footer.png) |
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-**Yogee Khadka**
+### Yogee Khadka
 
-Oasis Infobyte Web Development Internship (OIBSIP)
+**Oasis Infobyte Web Development Internship (OIBSIP)**
 
----
+⭐ If you like this project, consider giving it a **Star** on GitHub.
