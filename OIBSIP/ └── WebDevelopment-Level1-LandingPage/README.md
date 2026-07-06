@@ -106,7 +106,7 @@ npm run dev
 
 Talk to our team about a rollout plan tailored to your entities and close calendar.
 
-**[Book a Demo](#)** &nbsp;|&nbsp; **[View Pricing](#)**
+**[Book a Demo](**[📧 Contact Me](mailto:your@email.com)** · **[💻 Source Code](https://github.com/yourusername/WebDevelopment-Level1-LandingPage)**)** &nbsp;|&nbsp; **[View Pricing](#)**
 
 <br>
 
