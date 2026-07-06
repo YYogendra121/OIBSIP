@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-  Three self-contained front-end projects built for the <b>OIBSIP (AICTE Oasis Infobyte Internship Program)</b> Web Development internship track — Each project demonstrates practical skills in **HTML, CSS, and Vanilla JavaScript**, with a focus on responsive design, clean code, and interactive user experiences. Together, these projects highlight my ability to build modern, user-friendly web applications while following front-end development best practices.
+  Three self-contained front-end projects built for the <b>OIBSIP (AICTE Oasis Infobyte Internship Program https://www.oasisinfobyte.com/)</b> Web Development internship track — Each project demonstrates practical skills in **HTML, CSS, and Vanilla JavaScript**, with a focus on responsive design, clean code, and interactive user experiences. Together, these projects highlight my ability to build modern, user-friendly web applications while following front-end development best practices.https://www.oasisinfobyte.com/
 </p>
 <b>Task 1.🔗 Live demo:</b></b>(https://yyogendra121.github.io/Portfoliowebsite/) <br>
 <b>Task 1.🔗 Live demo:</b>(https://yyogendra121.github.io/Portfoliowebsite/) <br>
