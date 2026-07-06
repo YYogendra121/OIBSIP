@@ -1,4 +1,5 @@
-# 🌐 OIBSIP — Web Development Internship (5 july - 15 Aug 2026)
+# 🌐 OIBSIP — Web Development Internship
+### Duration: 5 July – 15 August 2026
 
 <p align="center">
   <img src="https://img.shields.io/badge/Internship-Oasis%20Infobyte-blue?style=for-the-badge" />
