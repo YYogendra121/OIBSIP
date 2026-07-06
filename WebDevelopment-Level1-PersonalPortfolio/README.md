@@ -21,8 +21,6 @@ Hey, I'm **Yogendra Singh** — a Software Engineer & Web Designer who loves tur
 </p> 
 🚧 **Status:** Actively under construction — new projects and features dropping soon!
 
----
-
 ## 🧭 Explore the Site
 
 | Section | Description |
@@ -132,6 +130,10 @@ Portfoliowebsite/
 <div align="center">
 
 ### 💡 "Combining creativity with technical expertise to deliver impactful results."
+
+<p align="center">
+  <img src="Team.jpg" alt="Ledgerline landing page image" width="850">
+</p> 
 
 **© 2025 Yogendra Singh** · Built with ❤️ using HTML, CSS & JavaScript
 
