@@ -106,7 +106,7 @@ npm run dev
 
 Talk to our team about a rollout plan tailored to your entities and close calendar.
 
-[📧 Contact Me](mailto:yugdevchhetri.com)** · **[💻 Source Code](https://github.com/YYogendra121/OIBSIP/tree/main/OIBSIP/%20%E2%94%94%E2%94%80%E2%94%80%20WebDevelopment-Level1-LandingPage)**)** &nbsp;|&nbsp; **[View Pricing](#)**
+[📧 Contact Me](mailto:yugdevchhetri.com) · [💻 Source Code](https://github.com/YYogendra121/OIBSIP/tree/main/OIBSIP/%20%E2%94%94%E2%94%80%E2%94%80%20WebDevelopment-Level1-LandingPage) &nbsp;|&nbsp;
 
 <br>
 
