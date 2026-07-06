@@ -1,45 +1,63 @@
+<div align="center">
+
 # 🌡️ Thermo — Temperature Converter
 
-A premium, SaaS-inspired temperature converter built with **pure HTML5, CSS3, and Vanilla JavaScript** — no frameworks, no libraries, no build step.
+### A premium, SaaS-inspired temperature converter with a glassmorphism UI
 
-Convert between **Celsius**, **Fahrenheit**, and **Kelvin** with real-time validation, a glassmorphism UI, and light/dark modes.
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![No Frameworks](https://img.shields.io/badge/Frameworks-None-6C63FF?style=for-the-badge)](#)
+
+**No frameworks · No libraries · No build step — just pure HTML, CSS & JS**
+
+</div>
 
 ---
 
-## ✨ Features
+## ✨ Overview
 
-### Core
-- Convert between Celsius ↔ Fahrenheit ↔ Kelvin (any direction)
-- **From** / **To** unit dropdowns
-- Numeric input field with **real-time validation**
-  - Blocks invalid characters as you type (only digits, one `-`, one `.`)
-  - Friendly error messages for empty or invalid input
-  - Bonus check: rejects values below absolute zero (−273.15 °C)
-- Results rounded to **2 decimal places**
-- **Convert** button with a simulated 500ms loading spinner
-- **Swap** button — flips From/To units (and carries the result into the input)
-- **Reset** button — clears the form back to defaults
+**Thermo** converts between **Celsius**, **Fahrenheit**, and **Kelvin** — in any direction — with real-time input validation, a glassmorphism interface, and full light/dark mode support. Everything is hand-built: no Bootstrap, no Tailwind, no React, no jQuery.
 
-### Extras
-- Live, auto-updating **date & time** in the header
-- **Light / dark mode** toggle
-- **Copy result** button with checkmark feedback
-- Smooth fade, pulse, and hover animations throughout
-- Fully responsive: desktop, tablet, and mobile layouts
-- Expanded footer with brand info, social links, and an auto-updating copyright year
+---
 
-### Design
-- Glassmorphism panels with backdrop blur
-- Animated gradient background blobs — the accent gradient runs
-  **cold blue → violet → hot coral**, echoing the temperature spectrum the tool measures
-- Modern type pairing: **Sora** (display), **Inter** (body), **JetBrains Mono** (numbers/data)
-- All icons are **inline SVG** — no icon library
+## 🚀 Features
+
+### 🔧 Core Functionality
+
+| Feature | Description |
+|---|---|
+| 🔄 Any-direction conversion | Celsius ↔ Fahrenheit ↔ Kelvin |
+| 📋 From / To dropdowns | Pick any unit pair |
+| ⌨️ Real-time validation | Blocks invalid characters as you type (digits, one `-`, one `.`) |
+| ⚠️ Friendly error handling | Clear messages for empty or invalid input |
+| 🧊 Absolute zero check | Rejects values below −273.15 °C |
+| 🎯 Precision | Results rounded to 2 decimal places |
+| ⏳ Convert button | Simulated 500ms loading spinner |
+| 🔁 Swap button | Flips From/To units and carries the result into the input |
+| ♻️ Reset button | Clears the form back to defaults |
+
+### 🎁 Extras
+
+- 🕒 Live, auto-updating date & time in the header
+- 🌗 Light / dark mode toggle
+- 📋 Copy result button with checkmark feedback
+- 🎬 Smooth fade, pulse & hover animations throughout
+- 📱 Fully responsive — desktop, tablet, and mobile
+- 🦶 Expanded footer with brand info, social links & auto-updating copyright year
+
+### 🎨 Design
+
+- **Glassmorphism panels** with backdrop blur
+- **Animated gradient background blobs** — cold blue → violet → hot coral, echoing the temperature spectrum the tool measures
+- **Modern type pairing** — `Sora` (display), `Inter` (body), `JetBrains Mono` (numbers/data)
+- **All icons are inline SVG** — no icon library required
 
 ---
 
 ## 🗂️ Project Structure
 
-```
+```bash
 temp-converter/
 ├── index.html    # Semantic markup & structure
 ├── style.css     # Design tokens, theming, layout, animations
@@ -51,23 +69,22 @@ temp-converter/
 
 ## 🛠️ Tech Stack
 
-| Layer      | Technology                          |
-|------------|--------------------------------------|
-| Structure  | HTML5 (semantic elements, ARIA)      |
-| Styling    | CSS3 (custom properties, Flexbox, Grid) |
-| Behavior   | Vanilla JavaScript (ES6+, no dependencies) |
-| Fonts      | Google Fonts (Sora, Inter, JetBrains Mono) |
+| Layer | Technology |
+|---|---|
+| **Structure** | HTML5 (semantic elements, ARIA) |
+| **Styling** | CSS3 (custom properties, Flexbox, Grid) |
+| **Behavior** | Vanilla JavaScript (ES6+, zero dependencies) |
+| **Fonts** | Google Fonts — Sora, Inter, JetBrains Mono |
 
-No Bootstrap, Tailwind, React, Vue, or jQuery — everything is hand-built.
+> No Bootstrap, Tailwind, React, Vue, or jQuery — everything is hand-built.
 
 ---
 
-## 🚀 Getting Started
+## ⚡ Getting Started
 
-1. Download or clone all three files (`index.html`, `style.css`, `script.js`) into the **same folder** — the HTML references the other two by relative path.
-2. Open `index.html` directly in any modern browser (Chrome, Firefox, Edge, Safari). No server or build step required.
-
-Optional — run a local server (useful if your browser restricts the Clipboard API on `file://` URLs):
+1. **Download** or clone all three files — `index.html`, `style.css`, `script.js` — into the same folder (the HTML references the others by relative path).
+2. **Open** `index.html` directly in any modern browser (Chrome, Firefox, Edge, Safari). No server or build step required.
+3. **Optional** — run a local server (useful if your browser restricts the Clipboard API on `file://` URLs):
 
 ```bash
 # Python
@@ -77,43 +94,45 @@ python3 -m http.server 8000
 npx serve .
 ```
 
-Then visit `http://localhost:8000`.
+Then visit **http://localhost:8000** 🎉
 
 ---
 
 ## 🧮 How Conversion Works
 
-Every conversion routes through Celsius as a common base, in `script.js`:
+Every conversion routes through **Celsius** as a common base, in `script.js`:
 
 ```js
-toCelsius(value, fromUnit)      
-fromCelsius(celsius, toUnit)   
+toCelsius(value, fromUnit)
+fromCelsius(celsius, toUnit)
 ```
 
-| From → To         | Formula                          |
-|-------------------|-----------------------------------|
-| Celsius → Fahrenheit | `(C × 9/5) + 32`               |
-| Fahrenheit → Celsius | `(F − 32) × 5/9`               |
-| Celsius → Kelvin     | `C + 273.15`                   |
-| Kelvin → Celsius     | `K − 273.15`                   |
+| From → To | Formula |
+|---|---|
+| Celsius → Fahrenheit | `(C × 9/5) + 32` |
+| Fahrenheit → Celsius | `(F − 32) × 5/9` |
+| Celsius → Kelvin | `C + 273.15` |
+| Kelvin → Celsius | `K − 273.15` |
 
 ---
 
 ## 🎨 Customization
 
-- **Theme colors**: edit the CSS custom properties in `style.css` under `:root`, `[data-theme="dark"]`, and `[data-theme="light"]`.
-- **Fonts**: swap the Google Fonts `<link>` in `index.html` and the `--font-*` variables in `style.css`.
-- **Author name**: replace `"Your Name"` in the footer of `index.html`.
-- **Persisting theme across visits**: the theme toggle currently keeps its state in a JS variable for the session only. To persist it across page reloads when hosting on your own server, store/read the value with `localStorage` in the theme toggle handler in `script.js`.
+| What | Where |
+|---|---|
+| **Theme colors** | CSS custom properties in `style.css` under `:root`, `[data-theme="dark"]`, `[data-theme="light"]` |
+| **Fonts** | Swap the Google Fonts `<link>` in `index.html` and the `--font-*` variables in `style.css` |
+| **Author name** | Replace `"Your Name"` in the footer of `index.html` |
+| **Persist theme** | Currently session-only (JS variable). Store/read via `localStorage` in the theme toggle handler in `script.js` to persist across reloads |
 
 ---
 
 ## ♿ Accessibility
 
-- Semantic landmarks (`header`, `main`, `footer`, `nav`)
-- Labeled form controls and `aria-label`s on icon-only buttons
-- Visible focus states on interactive elements
-- `prefers-reduced-motion` respected — animations are disabled for users who request it
+- ✅ Semantic landmarks (`header`, `main`, `footer`, `nav`)
+- ✅ Labeled form controls and `aria-label`s on icon-only buttons
+- ✅ Visible focus states on interactive elements
+- ✅ `prefers-reduced-motion` respected — animations disabled on request
 
 ---
 
@@ -121,6 +140,10 @@ fromCelsius(celsius, toUnit)
 
 Free to use and modify for personal, academic, or internship submission purposes.
 
----
+<div align="center">
 
-**Created by YOGENDRA SINGH**
+### 🌡️ Built with pure code, no shortcuts.
+
+**Created by Yogendra Singh**
+
+</div>
