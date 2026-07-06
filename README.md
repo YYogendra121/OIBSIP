@@ -117,11 +117,7 @@ A modern, fully responsive personal developer portfolio designed to showcase my 
 - JavaScript-powered interactive components without external frameworks
 - Demo contact form with inline success feedback (frontend only)
 - Clean, semantic HTML and maintainable CSS architecture
-
 ## 🚀 Key Features
-
-## 🚀 Key Features
-
 - 📌 Sticky navigation bar with responsive mobile menu
 - 🎯 Hero section featuring an animated typing effect
 - 👨‍💻 About section introducing the developer
