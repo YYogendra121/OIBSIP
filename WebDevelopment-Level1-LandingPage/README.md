@@ -80,7 +80,7 @@ Financial-grade controls, by default.
 ## 🗺️ Site Map
 
 <p align="center">
-  <img src="images/footer.jpg" alt="Ledgerline landing page image" width="850">
+  <img src="images/footer (1).jpg" alt="Ledgerline landing page image" width="850">
 </p>
 ## 🚀 Getting Started
 
