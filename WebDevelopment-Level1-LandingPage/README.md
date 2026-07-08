@@ -9,7 +9,7 @@
 [![Exceptions](https://img.shields.io/badge/Open%20Exceptions-3-f59e0b?style=for-the-badge)](#-live-metrics)
 [![License](https://img.shields.io/badge/License-Proprietary-1e293b?style=for-the-badge)](#-license)
 
-**[🚀 Live Demo](https://yyogendra121.github.io/OIBSIP/WebDevelopment-Level1-LandingPage/)** · **[📚 Docs](https://github.com/YYogendra121/OIBSIP/tree/main?tab=readme-ov-file)**  **[💻 Source Code](https://github.com/YYogendra121/OIBSIP/tree/main/WebDevelopment-Level1-LandingPage)** 
+**[🚀 Live Demo](https://yyogendra121.github.io/OIBSIP/WebDevelopment-Level1-LandingPage/)** · **[📚 Docs](https://github.com/YYogendra121/OIBSIP/blob/main/README.md)**  **[💻 Source Code](https://github.com/YYogendra121/OIBSIP/tree/main/WebDevelopment-Level1-LandingPage)** 
 </div>
 ---
 
