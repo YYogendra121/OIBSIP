@@ -10,8 +10,8 @@
   Three self-contained front-end projects built for the <b>OIBSIP (AICTE Oasis Infobyte Internship Program https://www.oasisinfobyte.com/)</b> Web Development internship track — Each project demonstrates practical skills in **HTML, CSS, and Vanilla JavaScript**, with a focus on responsive design, clean code, and interactive user experiences. Together, these projects highlight my ability to build modern, user-friendly web applications while following front-end development best practices.
 </p>
 <b>Task 1.🔗 Live demo:</b></b>(https://yyogendra121.github.io/OIBSIP/WebDevelopment-Level1-LandingPage/)<br>
-<b>Task 1.🔗 Live demo:</b>(https://yyogendra121.github.io/Portfoliowebsite/) <br>
-<b>Task 1.🔗 Live demo:</b>(https://yyogendra121.github.io/Portfoliowebsite/) <br>
+<b>Task 1.🔗 Live demo:</b>(https://yyogendra121.github.io/OIBSIP/WebDevelopment-Level1-PersonalPortfolio/) <br>
+<b>Task 1.🔗 Live demo:</b>(https://yyogendra121.github.io/OIBSIP/WebDevelopment-Level1-TemperatureConverter/)<br>
 
 ---
 
@@ -71,7 +71,7 @@ Overall, this project demonstrates responsive web design, semantic HTML, modern 
   <img src="images/Landpage (1).jpg" alt="Ledgerline landing page image" width="850">
 </p>
 <p align="left">
-<b>🔗Live demo:</b>(https://yyogendra121.github.io/Portfoliowebsite/)
+<b>🔗Live demo:</b>(https://yyogendra121.github.io/OIBSIP/WebDevelopment-Level1-LandingPage/)
 </p>
 
 ## ✨ Highlights
@@ -111,7 +111,7 @@ A modern, fully responsive personal developer portfolio designed to showcase my 
   <img src="images/Portfolio.jpg" alt="Portfolio website image" width="850">
 </p>
 <p align="left">
-<b>🔗Live demo:</b>(https://yyogendra121.github.io/Portfoliowebsite/)
+<b>🔗Live demo:</b>(https://yyogendra121.github.io/OIBSIP/WebDevelopment-Level1-PersonalPortfolio/)
 </p>
 
 ## ✨ Highlights
@@ -161,7 +161,7 @@ Overall, this project demonstrates practical JavaScript programming, responsive 
   <img src="images/Temperature.jpg" alt="Temperature converter images" width="850">
 </p>
 <p align="left">
-<b>🔗Live demo:</b>(https://yyogendra121.github.io/Portfoliowebsite/)
+<b>🔗Live demo:</b>(https://yyogendra121.github.io/OIBSIP/WebDevelopment-Level1-TemperatureConverter/)
 </p>
 
 
